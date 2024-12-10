@@ -34,7 +34,7 @@ export default function Navbar() {
           width={1000}
           height={30}
         />
-      </div> muhin
+      </div> 
 
       {/* Center section (Navigation Links) */}
       <nav className="flex gap-4 md:gap-6 text-gray-700 font-medium md:text-[16px] sm:text-[14px] text-[10px] ">
